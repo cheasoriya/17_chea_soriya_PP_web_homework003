@@ -318,7 +318,7 @@ hr {
 }
 .sideB {
   display: flex;
-  background-color: gainsboro;
+  background-color: rgb(231, 244, 255);
   border-radius: 30px;
 }
 /* Side bar  */
